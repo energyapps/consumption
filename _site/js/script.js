@@ -34,7 +34,7 @@ var w = -1;
               [38.7, -70.979],[41.2, -80.4]
             ]);
 
-		var cloudmade = L.tileLayer("http://a.tiles.mapbox.com/v3/energy.j3enm2ea/{z}/{x}/{y}.png").addTo(map);
+		var cloudmade = L.tileLayer("https://a.tiles.mapbox.com/v3/energy.j3enm2ea/{z}/{x}/{y}.png").addTo(map);
 
 
     //Load/add the data        
